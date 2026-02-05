@@ -13,5 +13,5 @@ tonic = "0.12"
 tower = "0.5"
 pin-project = "1.1"
 thiserror = "2.0"
-opentelemetry = "0.30"
+opentelemetry = "0.29"
 
